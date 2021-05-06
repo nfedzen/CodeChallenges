@@ -5,9 +5,10 @@
   "version": "0.2.0",
   "configurations": [
 
+
     {"console": "integratedTerminal",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/positionInAlphabet/positionInAlphabet.js",
+      "program": "${workspaceFolder}/smallestDistance/smallestDistance.js",
       "request": "launch",
       "skipFiles": [
         "<node_internals>/**"
